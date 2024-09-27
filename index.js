@@ -74,7 +74,7 @@ client.on("messageCreate", async (message) => {
             "oç", "amk", "ananı sikiyim", "ananıskm", "piç", "amsk", "sikim", "sikiyim", 
             "orospu çocuğu", "piç kurusu", "kahpe", "orospu", "göt", "sik", "yarrak", "am", 
             "amcık", "amık", "yarram", "sikimi ye", "mk", "mq", "aq", "ak", "amq", "amını", "anneni",
-            "kaşar", "pezevenk", "yarak", "anal" , "fuck", "ibne", "skim", "amına", "taşşak", "yarak", "bitch", "nigga", "aw", "yarra", "skiyim", "götveren", "pedo"
+            "kaşar", "pezevenk", "yarak", "anal" , "fuck", "ibne", "skim", "amına", "taşşak", "yarak", "bitch", "nigga", "aw", "yarra", "skiyim", "götveren", "pedo", "qancıq", "qancıx", "sikdir", "sikd", "axmaq", "namussuz", "ananı sikəcəm"
         ];
 
         const regex = new RegExp(`\\b(${kufurList.join("|")})\\b`, "i");
@@ -129,6 +129,16 @@ client.on('messageCreate', async message => {
             ".name.tr",
             ".web.tr",
             ".gen.tr",
+            ".am",
+            ".com.am",
+            ".net.am",
+            ".org.am",
+            ".gov.am",
+            "mfa.am",
+            ".web.am",
+            ".gen.am",
+            ".az",
+            ".com.az",
             "discord.gg",
             "discordapp.com/invite",
             "bit.ly",
