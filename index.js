@@ -135,6 +135,7 @@ client.on('messageCreate', async message => {
             ".org.am",
             ".gov.am",
             "mfa.am",
+            "news.am"
             ".web.am",
             ".gen.am",
             ".edu.am",
