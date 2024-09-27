@@ -45,4 +45,6 @@ Herhangi bir sorunla karşılaşırsanız veya yardım almak isterseniz, [beniml
     goto a
     ```
 
-    iyi kullanuımlar
+    iyi kullanuımlar.
+
+  **NOT:** Ermenistan link uzantıları ve Azerice küfürleri engellenmektedir!
